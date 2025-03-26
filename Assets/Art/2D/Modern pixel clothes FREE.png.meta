@@ -1,0 +1,6917 @@
+fileFormatVersion: 2
+guid: 28e6bc2d03fb7f243b6ff24177223b78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6644432574760020228
+    second: Modern pixel clothes FREE_0
+  - first:
+      213: 5943346671225231322
+    second: Modern pixel clothes FREE_1
+  - first:
+      213: -197415893201359094
+    second: Modern pixel clothes FREE_2
+  - first:
+      213: 1217266406301124451
+    second: Modern pixel clothes FREE_3
+  - first:
+      213: -1938442814305643292
+    second: Modern pixel clothes FREE_4
+  - first:
+      213: -3987801893080274110
+    second: Modern pixel clothes FREE_5
+  - first:
+      213: -1466693641283123098
+    second: Modern pixel clothes FREE_6
+  - first:
+      213: 8739299198942465840
+    second: Modern pixel clothes FREE_7
+  - first:
+      213: 7221116998894242301
+    second: Modern pixel clothes FREE_8
+  - first:
+      213: -6691770792441294525
+    second: Modern pixel clothes FREE_9
+  - first:
+      213: -796273998434218904
+    second: Modern pixel clothes FREE_10
+  - first:
+      213: -4324990264914487418
+    second: Modern pixel clothes FREE_11
+  - first:
+      213: 3378687599302380291
+    second: Modern pixel clothes FREE_12
+  - first:
+      213: 7096278498652961104
+    second: Modern pixel clothes FREE_13
+  - first:
+      213: 6476934865047655813
+    second: Modern pixel clothes FREE_14
+  - first:
+      213: -6910742753902614888
+    second: Modern pixel clothes FREE_15
+  - first:
+      213: 3102125484134331508
+    second: Modern pixel clothes FREE_16
+  - first:
+      213: -687438033923797512
+    second: Modern pixel clothes FREE_17
+  - first:
+      213: 6221074647517466493
+    second: Modern pixel clothes FREE_18
+  - first:
+      213: 7876834130012569332
+    second: Modern pixel clothes FREE_19
+  - first:
+      213: -6584498077823729504
+    second: Modern pixel clothes FREE_20
+  - first:
+      213: 3563342881933790626
+    second: Modern pixel clothes FREE_21
+  - first:
+      213: -6290022170514187138
+    second: Modern pixel clothes FREE_22
+  - first:
+      213: -510056482889655271
+    second: Modern pixel clothes FREE_23
+  - first:
+      213: -470156193434129217
+    second: Modern pixel clothes FREE_24
+  - first:
+      213: -3977869866338672982
+    second: Modern pixel clothes FREE_25
+  - first:
+      213: 7746426781539644185
+    second: Modern pixel clothes FREE_26
+  - first:
+      213: 6155517793224709084
+    second: Modern pixel clothes FREE_27
+  - first:
+      213: -2164971785002131719
+    second: Modern pixel clothes FREE_28
+  - first:
+      213: 4363018028303281819
+    second: Modern pixel clothes FREE_29
+  - first:
+      213: -503605389828834141
+    second: Modern pixel clothes FREE_30
+  - first:
+      213: -8501325594461581015
+    second: Modern pixel clothes FREE_31
+  - first:
+      213: -5009302304669880115
+    second: Modern pixel clothes FREE_32
+  - first:
+      213: -6409521854246608152
+    second: Modern pixel clothes FREE_33
+  - first:
+      213: -1647666022450122442
+    second: Modern pixel clothes FREE_34
+  - first:
+      213: 2376269063801108429
+    second: Modern pixel clothes FREE_35
+  - first:
+      213: 5132786833046102671
+    second: Modern pixel clothes FREE_36
+  - first:
+      213: -1853190826772324840
+    second: Modern pixel clothes FREE_37
+  - first:
+      213: -5923895856372459688
+    second: Modern pixel clothes FREE_38
+  - first:
+      213: -1432794127897834565
+    second: Modern pixel clothes FREE_39
+  - first:
+      213: -4031226473732649327
+    second: Modern pixel clothes FREE_40
+  - first:
+      213: 6576032688967488465
+    second: Modern pixel clothes FREE_41
+  - first:
+      213: 5388000868495311021
+    second: Modern pixel clothes FREE_42
+  - first:
+      213: 5816831941579753953
+    second: Modern pixel clothes FREE_43
+  - first:
+      213: -6922654877919616569
+    second: Modern pixel clothes FREE_44
+  - first:
+      213: 8662709749224995001
+    second: Modern pixel clothes FREE_45
+  - first:
+      213: 6027548262614717006
+    second: Modern pixel clothes FREE_46
+  - first:
+      213: -8864415942432163293
+    second: Modern pixel clothes FREE_47
+  - first:
+      213: 2116861019773686916
+    second: Modern pixel clothes FREE_48
+  - first:
+      213: -2047689139724001301
+    second: Modern pixel clothes FREE_49
+  - first:
+      213: -3906225920441453969
+    second: Modern pixel clothes FREE_50
+  - first:
+      213: -4313101468220195900
+    second: Modern pixel clothes FREE_51
+  - first:
+      213: -2418539105377705954
+    second: Modern pixel clothes FREE_52
+  - first:
+      213: 6823915928159727790
+    second: Modern pixel clothes FREE_53
+  - first:
+      213: 171441264971426887
+    second: Modern pixel clothes FREE_54
+  - first:
+      213: -8875849998816360383
+    second: Modern pixel clothes FREE_55
+  - first:
+      213: 1676473013289436318
+    second: Modern pixel clothes FREE_56
+  - first:
+      213: -5066977480474118456
+    second: Modern pixel clothes FREE_57
+  - first:
+      213: 4766150117555697835
+    second: Modern pixel clothes FREE_58
+  - first:
+      213: 8101010447659419585
+    second: Modern pixel clothes FREE_59
+  - first:
+      213: 7165614940841264188
+    second: Modern pixel clothes FREE_60
+  - first:
+      213: 2192245981965478227
+    second: Modern pixel clothes FREE_61
+  - first:
+      213: -2520690451579284939
+    second: Modern pixel clothes FREE_62
+  - first:
+      213: 6396654515186153823
+    second: Modern pixel clothes FREE_63
+  - first:
+      213: 4352093953072280996
+    second: Modern pixel clothes FREE_64
+  - first:
+      213: 22911945965217070
+    second: Modern pixel clothes FREE_65
+  - first:
+      213: -4498519246146469460
+    second: Modern pixel clothes FREE_66
+  - first:
+      213: -7194423236254549502
+    second: Modern pixel clothes FREE_67
+  - first:
+      213: -3991864298784031561
+    second: Modern pixel clothes FREE_68
+  - first:
+      213: 8991740082650077014
+    second: Modern pixel clothes FREE_69
+  - first:
+      213: 282952957174061502
+    second: Modern pixel clothes FREE_70
+  - first:
+      213: 5880678236004008590
+    second: Modern pixel clothes FREE_71
+  - first:
+      213: 3703937164250392658
+    second: Modern pixel clothes FREE_72
+  - first:
+      213: 4477352811300938916
+    second: Modern pixel clothes FREE_73
+  - first:
+      213: 706316011922450116
+    second: Modern pixel clothes FREE_74
+  - first:
+      213: 2074407977163000636
+    second: Modern pixel clothes FREE_75
+  - first:
+      213: 1280925206487891617
+    second: Modern pixel clothes FREE_76
+  - first:
+      213: -6940910137978365401
+    second: Modern pixel clothes FREE_77
+  - first:
+      213: -7745233630104934830
+    second: Modern pixel clothes FREE_78
+  - first:
+      213: 8418631685258024063
+    second: Modern pixel clothes FREE_79
+  - first:
+      213: 4370134901784454908
+    second: Modern pixel clothes FREE_80
+  - first:
+      213: -2981790276463911801
+    second: Modern pixel clothes FREE_81
+  - first:
+      213: -5235350513529794440
+    second: Modern pixel clothes FREE_82
+  - first:
+      213: -2236797393280174509
+    second: Modern pixel clothes FREE_83
+  - first:
+      213: 7515575760258445312
+    second: Modern pixel clothes FREE_84
+  - first:
+      213: -1702506039357972787
+    second: Modern pixel clothes FREE_85
+  - first:
+      213: 9131148768385921271
+    second: Modern pixel clothes FREE_86
+  - first:
+      213: 1008519386402875048
+    second: Modern pixel clothes FREE_87
+  - first:
+      213: 2835384705209553072
+    second: Modern pixel clothes FREE_88
+  - first:
+      213: -8768826456707810409
+    second: Modern pixel clothes FREE_89
+  - first:
+      213: -1244193424399971043
+    second: Modern pixel clothes FREE_90
+  - first:
+      213: 7299328218594139397
+    second: Modern pixel clothes FREE_91
+  - first:
+      213: -1779793718414692583
+    second: Modern pixel clothes FREE_92
+  - first:
+      213: 8040531438696407863
+    second: Modern pixel clothes FREE_93
+  - first:
+      213: 1814617307370697564
+    second: Modern pixel clothes FREE_94
+  - first:
+      213: -2300870138813109454
+    second: Modern pixel clothes FREE_95
+  - first:
+      213: 7614278723255876111
+    second: Modern pixel clothes FREE_96
+  - first:
+      213: 778500731817568118
+    second: Modern pixel clothes FREE_97
+  - first:
+      213: 4209545869606715079
+    second: Modern pixel clothes FREE_98
+  - first:
+      213: -4876242108413795207
+    second: Modern pixel clothes FREE_99
+  - first:
+      213: 6648758425219819450
+    second: Modern pixel clothes FREE_100
+  - first:
+      213: 2231130065869697507
+    second: Modern pixel clothes FREE_101
+  - first:
+      213: 7835558329711410313
+    second: Modern pixel clothes FREE_102
+  - first:
+      213: 2332283003334892677
+    second: Modern pixel clothes FREE_103
+  - first:
+      213: -766657622317432392
+    second: Modern pixel clothes FREE_104
+  - first:
+      213: 8687505232049245144
+    second: Modern pixel clothes FREE_105
+  - first:
+      213: -7144681554738736635
+    second: Modern pixel clothes FREE_106
+  - first:
+      213: -1482071421373257320
+    second: Modern pixel clothes FREE_107
+  - first:
+      213: 4737258188874325800
+    second: Modern pixel clothes FREE_108
+  - first:
+      213: 1330982628397017020
+    second: Modern pixel clothes FREE_109
+  - first:
+      213: 5893952593774643343
+    second: Modern pixel clothes FREE_110
+  - first:
+      213: 6256324879611828034
+    second: Modern pixel clothes FREE_111
+  - first:
+      213: 1760953669704584331
+    second: Modern pixel clothes FREE_112
+  - first:
+      213: -8037639652940994385
+    second: Modern pixel clothes FREE_113
+  - first:
+      213: 5859804535888012440
+    second: Modern pixel clothes FREE_114
+  - first:
+      213: -2275931853646488169
+    second: Modern pixel clothes FREE_115
+  - first:
+      213: -3818382312679242420
+    second: Modern pixel clothes FREE_116
+  - first:
+      213: -8310128520052882079
+    second: Modern pixel clothes FREE_117
+  - first:
+      213: 9052933681240803493
+    second: Modern pixel clothes FREE_118
+  - first:
+      213: -2296867611173846908
+    second: Modern pixel clothes FREE_119
+  - first:
+      213: 9033786159903756058
+    second: Modern pixel clothes FREE_120
+  - first:
+      213: -5166608152652547037
+    second: Modern pixel clothes FREE_121
+  - first:
+      213: -7661592771193043100
+    second: Modern pixel clothes FREE_122
+  - first:
+      213: -6979988148368899954
+    second: Modern pixel clothes FREE_123
+  - first:
+      213: 3719409284756636214
+    second: Modern pixel clothes FREE_124
+  - first:
+      213: -2290907296153629844
+    second: Modern pixel clothes FREE_125
+  - first:
+      213: -6966064585332585379
+    second: Modern pixel clothes FREE_126
+  - first:
+      213: 3457853985010032359
+    second: Modern pixel clothes FREE_127
+  - first:
+      213: 5709085695886316578
+    second: Modern pixel clothes FREE_128
+  - first:
+      213: -2318021484848939087
+    second: Modern pixel clothes FREE_129
+  - first:
+      213: -3400041788150567785
+    second: Modern pixel clothes FREE_130
+  - first:
+      213: -588039751989570636
+    second: Modern pixel clothes FREE_131
+  - first:
+      213: 1812671779340235295
+    second: Modern pixel clothes FREE_132
+  - first:
+      213: 5204720095720614201
+    second: Modern pixel clothes FREE_133
+  - first:
+      213: -8458305637451381798
+    second: Modern pixel clothes FREE_134
+  - first:
+      213: 3495428220026296102
+    second: Modern pixel clothes FREE_135
+  - first:
+      213: 2656280028744920344
+    second: Modern pixel clothes FREE_136
+  - first:
+      213: -7229876981725006785
+    second: Modern pixel clothes FREE_137
+  - first:
+      213: 8429066443813077711
+    second: Modern pixel clothes FREE_138
+  - first:
+      213: -3856903189682444163
+    second: Modern pixel clothes FREE_139
+  - first:
+      213: -7823500680632659214
+    second: Modern pixel clothes FREE_140
+  - first:
+      213: -8707772821974940265
+    second: Modern pixel clothes FREE_141
+  - first:
+      213: -8174079145839657797
+    second: Modern pixel clothes FREE_142
+  - first:
+      213: -4774498916709252578
+    second: Modern pixel clothes FREE_143
+  - first:
+      213: -5626962256599145938
+    second: Modern pixel clothes FREE_144
+  - first:
+      213: 3235298662710071915
+    second: Modern pixel clothes FREE_145
+  - first:
+      213: -5208545253074006407
+    second: Modern pixel clothes FREE_146
+  - first:
+      213: 4226630969693879637
+    second: Modern pixel clothes FREE_147
+  - first:
+      213: -280143850878198914
+    second: Modern pixel clothes FREE_148
+  - first:
+      213: 4153809160869394365
+    second: Modern pixel clothes FREE_149
+  - first:
+      213: -672635723582525804
+    second: Modern pixel clothes FREE_150
+  - first:
+      213: -4878677674990648281
+    second: Modern pixel clothes FREE_151
+  - first:
+      213: -611170565960800895
+    second: Modern pixel clothes FREE_152
+  - first:
+      213: -6789080284505046584
+    second: Modern pixel clothes FREE_153
+  - first:
+      213: -1545799743806076487
+    second: Modern pixel clothes FREE_154
+  - first:
+      213: -4717541895531398525
+    second: Modern pixel clothes FREE_155
+  - first:
+      213: 2154433571188658782
+    second: Modern pixel clothes FREE_156
+  - first:
+      213: 7447605685740621197
+    second: Modern pixel clothes FREE_157
+  - first:
+      213: 3580145354917677500
+    second: Modern pixel clothes FREE_158
+  - first:
+      213: 6185146310014613845
+    second: Modern pixel clothes FREE_159
+  - first:
+      213: -5053066805798149273
+    second: Modern pixel clothes FREE_160
+  - first:
+      213: 2079486672737900924
+    second: Modern pixel clothes FREE_161
+  - first:
+      213: 8344874364655573696
+    second: Modern pixel clothes FREE_162
+  - first:
+      213: -677365636964234660
+    second: Modern pixel clothes FREE_163
+  - first:
+      213: 3236262335468273620
+    second: Modern pixel clothes FREE_164
+  - first:
+      213: 3675450225133352158
+    second: Modern pixel clothes FREE_165
+  - first:
+      213: 5046494092349470960
+    second: Modern pixel clothes FREE_166
+  - first:
+      213: -5322272331308640756
+    second: Modern pixel clothes FREE_167
+  - first:
+      213: -4510793620551996138
+    second: Modern pixel clothes FREE_168
+  - first:
+      213: -2070540800839635116
+    second: Modern pixel clothes FREE_169
+  - first:
+      213: 2337961649039531014
+    second: Modern pixel clothes FREE_170
+  - first:
+      213: 3728281386800177287
+    second: Modern pixel clothes FREE_171
+  - first:
+      213: 4327480203063044550
+    second: Modern pixel clothes FREE_172
+  - first:
+      213: 1138977311070050534
+    second: Modern pixel clothes FREE_173
+  - first:
+      213: 356871602150749910
+    second: Modern pixel clothes FREE_174
+  - first:
+      213: -3700007975795318622
+    second: Modern pixel clothes FREE_175
+  - first:
+      213: 7107407981530672511
+    second: Modern pixel clothes FREE_176
+  - first:
+      213: -2747937856748259222
+    second: Modern pixel clothes FREE_177
+  - first:
+      213: -924086010218235088
+    second: Modern pixel clothes FREE_178
+  - first:
+      213: 1106947001442527383
+    second: Modern pixel clothes FREE_179
+  - first:
+      213: 4053292466705037820
+    second: Modern pixel clothes FREE_180
+  - first:
+      213: 587808417223709650
+    second: Modern pixel clothes FREE_181
+  - first:
+      213: -6077419696424096732
+    second: Modern pixel clothes FREE_182
+  - first:
+      213: 7132989294828668169
+    second: Modern pixel clothes FREE_183
+  - first:
+      213: -3026223995078602929
+    second: Modern pixel clothes FREE_184
+  - first:
+      213: -813577565997466121
+    second: Modern pixel clothes FREE_185
+  - first:
+      213: -7187112106143875803
+    second: Modern pixel clothes FREE_186
+  - first:
+      213: -2856076034729179719
+    second: Modern pixel clothes FREE_187
+  - first:
+      213: 1542167224699205099
+    second: Modern pixel clothes FREE_188
+  - first:
+      213: 3610412884860219137
+    second: Modern pixel clothes FREE_189
+  - first:
+      213: -3010956936531610014
+    second: Modern pixel clothes FREE_190
+  - first:
+      213: -3700758528070623869
+    second: Modern pixel clothes FREE_191
+  - first:
+      213: -4470943870448937511
+    second: Modern pixel clothes FREE_192
+  - first:
+      213: 4164626410469046443
+    second: Modern pixel clothes FREE_193
+  - first:
+      213: -19751319841350412
+    second: Modern pixel clothes FREE_194
+  - first:
+      213: -1861923639535160933
+    second: Modern pixel clothes FREE_195
+  - first:
+      213: -8810860264105358855
+    second: Modern pixel clothes FREE_196
+  - first:
+      213: 1683888248810958455
+    second: Modern pixel clothes FREE_197
+  - first:
+      213: 511447580077707095
+    second: Modern pixel clothes FREE_198
+  - first:
+      213: 7271889984123080444
+    second: Modern pixel clothes FREE_199
+  - first:
+      213: 5918318559317682261
+    second: Modern pixel clothes FREE_200
+  - first:
+      213: 7778789009713478336
+    second: Modern pixel clothes FREE_201
+  - first:
+      213: -882009111856789179
+    second: Modern pixel clothes FREE_202
+  - first:
+      213: 507983570029378506
+    second: Modern pixel clothes FREE_203
+  - first:
+      213: -3132538906687470680
+    second: Modern pixel clothes FREE_204
+  - first:
+      213: 336595169042915452
+    second: Modern pixel clothes FREE_205
+  - first:
+      213: -2865350836022675295
+    second: Modern pixel clothes FREE_206
+  - first:
+      213: 6620007771712671893
+    second: Modern pixel clothes FREE_207
+  - first:
+      213: -2326769369010119326
+    second: Modern pixel clothes FREE_208
+  - first:
+      213: 7465711774204389370
+    second: Modern pixel clothes FREE_209
+  - first:
+      213: -8309326735102827680
+    second: Modern pixel clothes FREE_210
+  - first:
+      213: 3972074690007194739
+    second: Modern pixel clothes FREE_211
+  - first:
+      213: -1543626726072815961
+    second: Modern pixel clothes FREE_212
+  - first:
+      213: -2233036348974959315
+    second: Modern pixel clothes FREE_213
+  - first:
+      213: 685783359651521022
+    second: Modern pixel clothes FREE_214
+  - first:
+      213: 3437154710112055609
+    second: Modern pixel clothes FREE_215
+  - first:
+      213: 6349572466675563138
+    second: Modern pixel clothes FREE_216
+  - first:
+      213: 4771727508093180338
+    second: Modern pixel clothes FREE_217
+  - first:
+      213: 5003330580205824017
+    second: Modern pixel clothes FREE_218
+  - first:
+      213: 4253945468165881173
+    second: Modern pixel clothes FREE_219
+  - first:
+      213: -8414251802082288643
+    second: Modern pixel clothes FREE_220
+  - first:
+      213: -7913698449518249475
+    second: Modern pixel clothes FREE_221
+  - first:
+      213: -4521326379889070030
+    second: Modern pixel clothes FREE_222
+  - first:
+      213: -3838613009801121104
+    second: Modern pixel clothes FREE_223
+  - first:
+      213: 898576760868630568
+    second: Modern pixel clothes FREE_224
+  - first:
+      213: 792719624237565816
+    second: Modern pixel clothes FREE_225
+  - first:
+      213: -7317725437131046398
+    second: Modern pixel clothes FREE_226
+  - first:
+      213: -8561607127438640598
+    second: Modern pixel clothes FREE_227
+  - first:
+      213: -3813716144808911959
+    second: Modern pixel clothes FREE_228
+  - first:
+      213: -1416443566987348289
+    second: Modern pixel clothes FREE_229
+  - first:
+      213: -1794907713028793032
+    second: Modern pixel clothes FREE_230
+  - first:
+      213: -333611073571036977
+    second: Modern pixel clothes FREE_231
+  - first:
+      213: 881868780304148533
+    second: Modern pixel clothes FREE_232
+  - first:
+      213: -1071068766195698265
+    second: Modern pixel clothes FREE_233
+  - first:
+      213: 1418924049995237357
+    second: Modern pixel clothes FREE_234
+  - first:
+      213: -8628822589946444174
+    second: Modern pixel clothes FREE_235
+  - first:
+      213: 289413074284375792
+    second: Modern pixel clothes FREE_236
+  - first:
+      213: -417597926316256400
+    second: Modern pixel clothes FREE_237
+  - first:
+      213: 7894751009723243121
+    second: Modern pixel clothes FREE_238
+  - first:
+      213: 6897339687369680058
+    second: Modern pixel clothes FREE_239
+  - first:
+      213: 3468697366079172543
+    second: Modern pixel clothes FREE_240
+  - first:
+      213: -9135998817416225645
+    second: Modern pixel clothes FREE_241
+  - first:
+      213: -593979386083420227
+    second: Modern pixel clothes FREE_242
+  - first:
+      213: -1942809581575214921
+    second: Modern pixel clothes FREE_243
+  - first:
+      213: 4105213115837722933
+    second: Modern pixel clothes FREE_244
+  - first:
+      213: 4229705330325138241
+    second: Modern pixel clothes FREE_245
+  - first:
+      213: -6142542421843491597
+    second: Modern pixel clothes FREE_246
+  - first:
+      213: 4219026612869304878
+    second: Modern pixel clothes FREE_247
+  - first:
+      213: -3129864001300052644
+    second: Modern pixel clothes FREE_248
+  - first:
+      213: 4208589892378656719
+    second: Modern pixel clothes FREE_249
+  - first:
+      213: -1720389669304576989
+    second: Modern pixel clothes FREE_250
+  - first:
+      213: -4335845426293908473
+    second: Modern pixel clothes FREE_251
+  - first:
+      213: -4357859745632302709
+    second: Modern pixel clothes FREE_252
+  - first:
+      213: 6916079025756020698
+    second: Modern pixel clothes FREE_253
+  - first:
+      213: 8284575902838279784
+    second: Modern pixel clothes FREE_254
+  - first:
+      213: -7487563659905399691
+    second: Modern pixel clothes FREE_255
+  - first:
+      213: -5531659046423109582
+    second: Modern pixel clothes FREE_256
+  - first:
+      213: -8589701520252907092
+    second: Modern pixel clothes FREE_257
+  - first:
+      213: -4254450431780721670
+    second: Modern pixel clothes FREE_258
+  - first:
+      213: 7258446781809552218
+    second: Modern pixel clothes FREE_259
+  - first:
+      213: -412365404696797421
+    second: Modern pixel clothes FREE_260
+  - first:
+      213: 1425096695417367685
+    second: Modern pixel clothes FREE_261
+  - first:
+      213: 4761895317513243204
+    second: Modern pixel clothes FREE_262
+  - first:
+      213: 4192107817248356922
+    second: Modern pixel clothes FREE_263
+  - first:
+      213: -5410220382997000775
+    second: Modern pixel clothes FREE_264
+  - first:
+      213: -2223670418382648991
+    second: Modern pixel clothes FREE_265
+  - first:
+      213: -6756716275385946321
+    second: Modern pixel clothes FREE_266
+  - first:
+      213: 948489412457578661
+    second: Modern pixel clothes FREE_267
+  - first:
+      213: -1497721573040576068
+    second: Modern pixel clothes FREE_268
+  - first:
+      213: -1106418178288645272
+    second: Modern pixel clothes FREE_269
+  - first:
+      213: -6125766730117863147
+    second: Modern pixel clothes FREE_270
+  - first:
+      213: 6894967816593649623
+    second: Modern pixel clothes FREE_271
+  - first:
+      213: 3122971247549332116
+    second: Modern pixel clothes FREE_272
+  - first:
+      213: 7983848449078311019
+    second: Modern pixel clothes FREE_273
+  - first:
+      213: -3482471173569236434
+    second: Modern pixel clothes FREE_274
+  - first:
+      213: 2434683420327311221
+    second: Modern pixel clothes FREE_275
+  - first:
+      213: -2097578219305570568
+    second: Modern pixel clothes FREE_276
+  - first:
+      213: -7319265752170523495
+    second: Modern pixel clothes FREE_277
+  - first:
+      213: -8671464100209970038
+    second: Modern pixel clothes FREE_278
+  - first:
+      213: 854991730792558795
+    second: Modern pixel clothes FREE_279
+  - first:
+      213: -2023049826963510078
+    second: Modern pixel clothes FREE_280
+  - first:
+      213: 8146558792173907725
+    second: Modern pixel clothes FREE_281
+  - first:
+      213: 4820917820678634894
+    second: Modern pixel clothes FREE_282
+  - first:
+      213: -6734864236080803410
+    second: Modern pixel clothes FREE_283
+  - first:
+      213: 7788578920151434828
+    second: Modern pixel clothes FREE_284
+  - first:
+      213: 1704895800665738827
+    second: Modern pixel clothes FREE_285
+  - first:
+      213: 1350728922795791136
+    second: Modern pixel clothes FREE_286
+  - first:
+      213: -3561396583816567584
+    second: Modern pixel clothes FREE_287
+  - first:
+      213: -5518069768378870352
+    second: Modern pixel clothes FREE_288
+  - first:
+      213: -1699369167930886949
+    second: Modern pixel clothes FREE_289
+  - first:
+      213: -3524955556961973411
+    second: Modern pixel clothes FREE_290
+  - first:
+      213: -9192989247061606599
+    second: Modern pixel clothes FREE_291
+  - first:
+      213: -3619375484834782591
+    second: Modern pixel clothes FREE_292
+  - first:
+      213: 7545062051939129118
+    second: Modern pixel clothes FREE_293
+  - first:
+      213: 8584268636819077731
+    second: Modern pixel clothes FREE_294
+  - first:
+      213: 8607605825975003380
+    second: Modern pixel clothes FREE_295
+  - first:
+      213: 5589768838582256196
+    second: Modern pixel clothes FREE_296
+  - first:
+      213: -7149006368389265386
+    second: Modern pixel clothes FREE_297
+  - first:
+      213: -4635255455267303963
+    second: Modern pixel clothes FREE_298
+  - first:
+      213: 7092048131874482309
+    second: Modern pixel clothes FREE_299
+  - first:
+      213: 8720377633869687317
+    second: Modern pixel clothes FREE_300
+  - first:
+      213: -7377170095441443946
+    second: Modern pixel clothes FREE_301
+  - first:
+      213: 5645008592025685705
+    second: Modern pixel clothes FREE_302
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409ea981934c53c50800000000000000
+      internalID: 6644432574760020228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7516bee420b7250800000000000000
+      internalID: 5943346671225231322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f67b48a43a24df0800000000000000
+      internalID: -197415893201359094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3674890e85994e010800000000000000
+      internalID: 1217266406301124451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e457ebd7844915e0800000000000000
+      internalID: -1938442814305643292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be1587e4b78a8c0800000000000000
+      internalID: -3987801893080274110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668cef477e145abe0800000000000000
+      internalID: -1466693641283123098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f42d2915a384970800000000000000
+      internalID: 8739299198942465840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df940a0c6af863460800000000000000
+      internalID: 7221116998894242301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341d3363bed0223a0800000000000000
+      internalID: -6691770792441294525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc27b640113f4f0800000000000000
+      internalID: -796273998434218904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687dfb2d44c8af3c0800000000000000
+      internalID: -4324990264914487418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b8f63787283ee20800000000000000
+      internalID: 3378687599302380291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b37362bb0b7260800000000000000
+      internalID: 7096278498652961104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585128881f1b2e950800000000000000
+      internalID: 6476934865047655813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a78b741c1810a0800000000000000
+      internalID: -6910742753902614888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474738a21b6fc0b20800000000000000
+      internalID: 3102125484134331508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd01e610cab576f0800000000000000
+      internalID: -687438033923797512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f87766e62b55650800000000000000
+      internalID: 6221074647517466493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe721278e2205d60800000000000000
+      internalID: 7876834130012569332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0031762e92f94a0800000000000000
+      internalID: -6584498077823729504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8492c879837130800000000000000
+      internalID: 3563342881933790626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c9b21792a55b8a0800000000000000
+      internalID: -6290022170514187138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c1af9c45aebe8f0800000000000000
+      internalID: -510056482889655271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca86dde6ba979f0800000000000000
+      internalID: -470156193434129217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae1726ae64cbc8c0800000000000000
+      internalID: -3977869866338672982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9133e309d16d08b60800000000000000
+      internalID: 7746426781539644185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd351c1d1dacc6550800000000000000
+      internalID: 6155517793224709084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe543ec1a974f1e0800000000000000
+      internalID: -2164971785002131719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e64adc7cd8c8c30800000000000000
+      internalID: 4363018028303281819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acb740f095d209f0800000000000000
+      internalID: -503605389828834141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215e2ee969350a80800000000000000
+      internalID: -8501325594461581015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc03b9528126b7ab0800000000000000
+      internalID: -5009302304669880115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2278925ddcc07a0800000000000000
+      internalID: -6409521854246608152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_34
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63131677b705229e0800000000000000
+      internalID: -1647666022450122442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_35
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc77d9e9f143af020800000000000000
+      internalID: 2376269063801108429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82e3831e625b3740800000000000000
+      internalID: 5132786833046102671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_37
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e193df2c42846e0800000000000000
+      internalID: -1853190826772324840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_38
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857d282da181acda0800000000000000
+      internalID: -5923895856372459688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_39
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb426af451bd1ce0800000000000000
+      internalID: -1432794127897834565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ec30861e43e08c0800000000000000
+      internalID: -4031226473732649327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d39349a3e2c24b50800000000000000
+      internalID: 6576032688967488465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c8283e3606ca40800000000000000
+      internalID: 5388000868495311021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9c10cf4d989b050800000000000000
+      internalID: 5816831941579753953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e9faf01acdef90800000000000000
+      internalID: -6922654877919616569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b87ed2be90283870800000000000000
+      internalID: 8662709749224995001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e425ca3a53726a350800000000000000
+      internalID: 6027548262614717006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a75028aa44bf480800000000000000
+      internalID: -8864415942432163293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4845b72c1e9906d10800000000000000
+      internalID: 2116861019773686916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef535893952593e0800000000000000
+      internalID: -2047689139724001301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f9afa83c4ac9c0800000000000000
+      internalID: -3906225920441453969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbf4820119c424c0800000000000000
+      internalID: -4313101468220195900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1022946f7f9f6ed0800000000000000
+      internalID: -2418539105377705954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0371bc16b63be50800000000000000
+      internalID: 6823915928159727790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_54
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c27721ce4116200800000000000000
+      internalID: 171441264971426887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14846ecc375a2d480800000000000000
+      internalID: -8875849998816360383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9445a0c257044710800000000000000
+      internalID: 1676473013289436318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6bf67d3da7ea9b0800000000000000
+      internalID: -5066977480474118456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f71f9744c42240800000000000000
+      internalID: 4766150117555697835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7c776c4129c6070800000000000000
+      internalID: 8101010447659419585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34431ad2d0617360800000000000000
+      internalID: 7165614940841264188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35964570b1c6c6e10800000000000000
+      internalID: 2192245981965478227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d5e4b365b40dd0800000000000000
+      internalID: -2520690451579284939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b190046b75c850800000000000000
+      internalID: 6396654515186153823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5bff5546eb56c30800000000000000
+      internalID: 4352093953072280996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ae502b46615000800000000000000
+      internalID: 22911945965217070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca18e2e649c0291c0800000000000000
+      internalID: -4498519246146469460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a3b3f2f26482c90800000000000000
+      internalID: -7194423236254549502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_68
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcf96fe19c0a98c0800000000000000
+      internalID: -3991864298784031561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657dff207f319cc70800000000000000
+      internalID: 8991740082650077014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9918427304de300800000000000000
+      internalID: 282952957174061502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_71
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c36fc2bd5c9150800000000000000
+      internalID: 5880678236004008590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_72
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25823810a37076330800000000000000
+      internalID: 3703937164250392658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a460bbe8a0c22e30800000000000000
+      internalID: 4477352811300938916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_74
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6eecdaba65dc900800000000000000
+      internalID: 706316011922450116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b89068017c9cc10800000000000000
+      internalID: 2074407977163000636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aefd8c40b2c6c110800000000000000
+      internalID: 1280925206487891617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a54e7010fecaf90800000000000000
+      internalID: -6940910137978365401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256af27ac07638490800000000000000
+      internalID: -7745233630104934830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7417a6f9ecf4d470800000000000000
+      internalID: 8418631685258024063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf626690a86d5ac30800000000000000
+      internalID: 4370134901784454908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c97a0ba8d8e96d0800000000000000
+      internalID: -2981790276463911801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d56e227c4857b0800000000000000
+      internalID: -5235350513529794440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356f3033f9c45f0e0800000000000000
+      internalID: -2236797393280174509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000bdb0b550bc4860800000000000000
+      internalID: 7515575760258445312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce5c1807cb7f58e0800000000000000
+      internalID: -1702506039357972787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f073ea0d6b58be70800000000000000
+      internalID: 9131148768385921271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a663afd90bfefd00800000000000000
+      internalID: 1008519386402875048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0579bed5f495720800000000000000
+      internalID: 2835384705209553072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b32eefbcede4680800000000000000
+      internalID: -8768826456707810409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d43ca2cacbbbee0800000000000000
+      internalID: -1244193424399971043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_91
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd940675c6c4560800000000000000
+      internalID: 7299328218594139397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fab68fa07ec47e0800000000000000
+      internalID: -1779793718414692583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7332cd03eb4b59f60800000000000000
+      internalID: 8040531438696407863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c533b19a3d0de2910800000000000000
+      internalID: 1814617307370697564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23badbd9ccaa110e0800000000000000
+      internalID: -2300870138813109454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a3b78182a5ba960800000000000000
+      internalID: 7614278723255876111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_97
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6772e597a4acdca00800000000000000
+      internalID: 778500731817568118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cefe9f4aaf4b6a30800000000000000
+      internalID: 4209545869606715079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974a13943ab145cb0800000000000000
+      internalID: -4876242108413795207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7ec94af82254c50800000000000000
+      internalID: 6648758425219819450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_101
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e17bdf49f096fe10800000000000000
+      internalID: 2231130065869697507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_102
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c3d4b49ce7dbc60800000000000000
+      internalID: 7835558329711410313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1579d80fed5020800000000000000
+      internalID: 2332283003334892677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_104
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b18c6554f84c55f0800000000000000
+      internalID: -766657622317432392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db84aceaf7309870800000000000000
+      internalID: 8687505232049245144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5021388eafdf8dc90800000000000000
+      internalID: -7144681554738736635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899e94505ef9e6be0800000000000000
+      internalID: -1482071421373257320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_108
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f1a25493f1eb140800000000000000
+      internalID: 4737258188874325800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7e1df06a9987210800000000000000
+      internalID: 1330982628397017020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_110
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f880ee218a68bc150800000000000000
+      internalID: 5893952593774643343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24793b0a45ee2d650800000000000000
+      internalID: 6256324879611828034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c89ac580a207810800000000000000
+      internalID: 1760953669704584331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8abd52251947090800000000000000
+      internalID: -8037639652940994385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_114
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e3d6cd25325150800000000000000
+      internalID: 5859804535888012440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_115
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d976a99044a60e0800000000000000
+      internalID: -2275931853646488169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_116
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458e1c6481620bc0800000000000000
+      internalID: -3818382312679242420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_117
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165c764d32e7cac80800000000000000
+      internalID: -8310128520052882079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_118
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80785f73b72ad70800000000000000
+      internalID: 9052933681240803493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_119
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48002e3b313ef10e0800000000000000
+      internalID: -2296867611173846908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_120
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f47ed36a47e5d70800000000000000
+      internalID: 9033786159903756058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_121
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf18f42458c48b0800000000000000
+      internalID: -5166608152652547037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_122
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467865ba7fd8ca590800000000000000
+      internalID: -7661592771193043100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_123
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e800908b2c9122f90800000000000000
+      internalID: -6979988148368899954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_124
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328538c90ffd9330800000000000000
+      internalID: 3719409284756636214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b896fa3ff0530e0800000000000000
+      internalID: -2290907296153629844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c82dcda21935f90800000000000000
+      internalID: -6966064585332585379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee11bdf0e3ccff20800000000000000
+      internalID: 3457853985010032359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224519f313fba3f40800000000000000
+      internalID: 5709085695886316578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bffaddadbbb4dfd0800000000000000
+      internalID: -2318021484848939087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_130
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c2dc30200a0d0d0800000000000000
+      internalID: -3400041788150567785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35adc06fcd6d7f0800000000000000
+      internalID: -588039751989570636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1233fd1167e72910800000000000000
+      internalID: 1812671779340235295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_133
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939a3cce951ea3840800000000000000
+      internalID: 5204720095720614201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_134
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3c60636df0e9a80800000000000000
+      internalID: -8458305637451381798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271b805271428030800000000000000
+      internalID: 3495428220026296102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_136
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d2e41dc900dd420800000000000000
+      internalID: 2656280028744920344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34f18ec0315aab90800000000000000
+      internalID: -7229876981725006785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_138
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2c4a3854f0af470800000000000000
+      internalID: 8429066443813077711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_139
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7828e5dbf6897ac0800000000000000
+      internalID: -3856903189682444163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_140
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f21dd6e4975d6390800000000000000
+      internalID: -7823500680632659214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_141
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795026111c6c72780800000000000000
+      internalID: -8707772821974940265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_142
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc7c423356df8e80800000000000000
+      internalID: -8174079145839657797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_143
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12ce0918829dbdb0800000000000000
+      internalID: -4774498916709252578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_144
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22a0eaf3a309e1b0800000000000000
+      internalID: -5626962256599145938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_145
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62512d0ef616ec20800000000000000
+      internalID: 3235298662710071915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_146
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e0af930b787b7b0800000000000000
+      internalID: -5208545253074006407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_147
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55db449297208aa30800000000000000
+      internalID: 4226630969693879637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b1562e6aabc1cf0800000000000000
+      internalID: -280143850878198914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7326a8c6b45a930800000000000000
+      internalID: 4153809160869394365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_150
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e20a88f515aa6f0800000000000000
+      internalID: -672635723582525804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724cd80c0847b4cb0800000000000000
+      internalID: -4878677674990648281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856bbebb9fa487f0800000000000000
+      internalID: -611170565960800895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_153
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1087a837758c1a0800000000000000
+      internalID: -6789080284505046584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b98c80b2573c8ae0800000000000000
+      internalID: -1545799743806076487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38af3dff3ace78eb0800000000000000
+      internalID: -4717541895531398525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_156
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5250e61be516ed10800000000000000
+      internalID: 2154433571188658782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_157
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dcfbd79e53b5760800000000000000
+      internalID: 7447605685740621197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9022c5b3b3fa130800000000000000
+      internalID: 3580145354917677500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5593d347ccd06d550800000000000000
+      internalID: 6185146310014613845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_160
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763651e2386efd9b0800000000000000
+      internalID: -5053066805798149273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_161
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7993bb7c12dbdc10800000000000000
+      internalID: 2079486672737900924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_162
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1f888503fec370800000000000000
+      internalID: 8344874364655573696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_163
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ac0b1ca838996f0800000000000000
+      internalID: -677365636964234660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_164
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfff89927389ec20800000000000000
+      internalID: 3236262335468273620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4f3b2a182d10330800000000000000
+      internalID: 3675450225133352158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_166
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8f897b3afb80640800000000000000
+      internalID: 5046494092349470960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c065576638d7326b0800000000000000
+      internalID: -5322272331308640756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d66efe9117661c0800000000000000
+      internalID: -4510793620551996138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_169
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f2001ac16f343e0800000000000000
+      internalID: -2070540800839635116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_170
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cdc759bbb127020800000000000000
+      internalID: 2337961649039531014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780ece20b248db330800000000000000
+      internalID: 3728281386800177287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ab14115c4e0c30800000000000000
+      internalID: 4327480203063044550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_173
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85f8174d57ecf00800000000000000
+      internalID: 1138977311070050534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_174
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6be94d4dcd3f400800000000000000
+      internalID: 356871602150749910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_175
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0ab98795ee6acc0800000000000000
+      internalID: -3700007975795318622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_176
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d69ec07e592a260800000000000000
+      internalID: 7107407981530672511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_177
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fba7141d5dd9d0800000000000000
+      internalID: -2747937856748259222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_178
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb8037bacfc23f0800000000000000
+      internalID: -924086010218235088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7986a26de6aac5f00800000000000000
+      internalID: 1106947001442527383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf978b0f500304830800000000000000
+      internalID: 4053292466705037820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39a9024a0582800800000000000000
+      internalID: 587808417223709650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_182
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ceda35cfaa8aba0800000000000000
+      internalID: -6077419696424096732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054de0b8f77df260800000000000000
+      internalID: 7132989294828668169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_184
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f83926f41b006d0800000000000000
+      internalID: -3026223995078602929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_185
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd7e75a38795b4f0800000000000000
+      internalID: -813577565997466121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_186
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d72605e9f324c90800000000000000
+      internalID: -7187112106143875803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_187
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b506728afd2d58d0800000000000000
+      internalID: -2856076034729179719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_188
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5327c8be0e66510800000000000000
+      internalID: 1542167224699205099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_189
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f2696d363ca1230800000000000000
+      internalID: 3610412884860219137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266f8047e9ee636d0800000000000000
+      internalID: -3010956936531610014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_191
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d5ad6e9b344acc0800000000000000
+      internalID: -3700758528070623869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d55e27ec3404f1c0800000000000000
+      internalID: -4470943870448937511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_193
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8b73ab7a9bbc930800000000000000
+      internalID: 4164626410469046443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_194
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd20d7744d9bff0800000000000000
+      internalID: -19751319841350412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_195
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ba92905e1926e0800000000000000
+      internalID: -1861923639535160933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_196
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f94560954989b580800000000000000
+      internalID: -8810860264105358855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee4dfc07f5e5710800000000000000
+      internalID: 1683888248810958455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_198
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fc3c34dd6091700800000000000000
+      internalID: 511447580077707095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe80659961fae460800000000000000
+      internalID: 7271889984123080444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_200
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5586bb38f57122250800000000000000
+      internalID: 5918318559317682261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca3faaf36fc3fb60800000000000000
+      internalID: 7778789009713478336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_202
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5494e17c26972c3f0800000000000000
+      internalID: -882009111856789179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_203
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbf5539d58bc0700800000000000000
+      internalID: 507983570029378506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_204
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a38dc5167cf684d0800000000000000
+      internalID: -3132538906687470680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_205
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c706aebd583dba400800000000000000
+      internalID: 336595169042915452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_206
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8fffd889a3c38d0800000000000000
+      internalID: -2865350836022675295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_207
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590524b7efdfedb50800000000000000
+      internalID: 6620007771712671893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_208
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d54ed2697a5bfd0800000000000000
+      internalID: -2326769369010119326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_209
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af767e8bd498b9760800000000000000
+      internalID: 7465711774204389370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_210
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0632a8feb575fac80800000000000000
+      internalID: -8309326735102827680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_211
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd237b2e4af1730800000000000000
+      internalID: 3972074690007194739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_212
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae61aecbafe39ae0800000000000000
+      internalID: -1543626726072815961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25ffc09549a201e0800000000000000
+      internalID: -2233036348974959315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_214
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef127e80554648900800000000000000
+      internalID: 685783359651521022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_215
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9313a4e7ff933bf20800000000000000
+      internalID: 3437154710112055609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_216
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3cc754863e1850800000000000000
+      internalID: 6349572466675563138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b99adc03e4983240800000000000000
+      internalID: 4771727508093180338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118640767a66f6540800000000000000
+      internalID: 5003330580205824017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_219
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df8eb6ddc090b30800000000000000
+      internalID: 4253945468165881173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_220
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbd13e01929a3b80800000000000000
+      internalID: -8414251802082288643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_221
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b7e05035ec2290800000000000000
+      internalID: -7913698449518249475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_222
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230fb1dcc950141c0800000000000000
+      internalID: -4521326379889070030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_223
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b27c903ec18abac0800000000000000
+      internalID: -3838613009801121104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_224
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820fefa9dc2687c00800000000000000
+      internalID: 898576760868630568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_225
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87749295c4e400b00800000000000000
+      internalID: 792719624237565816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_226
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202c6f36c77327a90800000000000000
+      internalID: -7317725437131046398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_227
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a319ecdaf0f2980800000000000000
+      internalID: -8561607127438640598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_228
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1e7a4f55f21bc0800000000000000
+      internalID: -3813716144808911959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_229
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6f4599418c75ce0800000000000000
+      internalID: -1416443566987348289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_230
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5f40e1f43717e0800000000000000
+      internalID: -1794907713028793032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_231
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc069a20f76ce5bf0800000000000000
+      internalID: -333611073571036977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_232
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538298cbbf60d3c00800000000000000
+      internalID: 881868780304148533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_233
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5b3e4c1acc221f0800000000000000
+      internalID: -1071068766195698265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_234
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7893bd7e701b310800000000000000
+      internalID: 1418924049995237357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_235
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27640686293404880800000000000000
+      internalID: -8628822589946444174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_236
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee21e58a3340400800000000000000
+      internalID: 289413074284375792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_237
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073daf606e4643af0800000000000000
+      internalID: -417597926316256400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_238
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ad5b4173acf8d60800000000000000
+      internalID: 7894751009723243121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_239
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4afd8e6e548bf50800000000000000
+      internalID: 6897339687369680058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_240
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6b7260e9432030800000000000000
+      internalID: 3468697366079172543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_241
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c548bea79663180800000000000000
+      internalID: -9135998817416225645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_242
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7d79835e2c1c7f0800000000000000
+      internalID: -593979386083420227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_243
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ebff9af0c905e0800000000000000
+      internalID: -1942809581575214921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_244
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53138c81495a8f830800000000000000
+      internalID: 4105213115837722933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_245
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b2b96869ee2ba30800000000000000
+      internalID: 4229705330325138241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_246
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44040463e41caa0800000000000000
+      internalID: -6142542421843491597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_247
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e229efdd95efc8a30800000000000000
+      internalID: 4219026612869304878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_248
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554a37064d7094d0800000000000000
+      internalID: -3129864001300052644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_249
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf7784853ae76a30800000000000000
+      internalID: 4208589892378656719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32459d5f5b2ff18e0800000000000000
+      internalID: -1720389669304576989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_251
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cdfbc9e8bf3d3c0800000000000000
+      internalID: -4335845426293908473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_252
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89cc9876a5c583c0800000000000000
+      internalID: -4357859745632302709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_253
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf97b02b39daff50800000000000000
+      internalID: 6916079025756020698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern pixel clothes FREE_254
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ecf6bd3e9b8f270800000000000000
+      internalID: 8284575902838279784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Modern pixel clothes FREE_0: 6644432574760020228
+      Modern pixel clothes FREE_1: 5943346671225231322
+      Modern pixel clothes FREE_10: -796273998434218904
+      Modern pixel clothes FREE_100: 6648758425219819450
+      Modern pixel clothes FREE_101: 2231130065869697507
+      Modern pixel clothes FREE_102: 7835558329711410313
+      Modern pixel clothes FREE_103: 2332283003334892677
+      Modern pixel clothes FREE_104: -766657622317432392
+      Modern pixel clothes FREE_105: 8687505232049245144
+      Modern pixel clothes FREE_106: -7144681554738736635
+      Modern pixel clothes FREE_107: -1482071421373257320
+      Modern pixel clothes FREE_108: 4737258188874325800
+      Modern pixel clothes FREE_109: 1330982628397017020
+      Modern pixel clothes FREE_11: -4324990264914487418
+      Modern pixel clothes FREE_110: 5893952593774643343
+      Modern pixel clothes FREE_111: 6256324879611828034
+      Modern pixel clothes FREE_112: 1760953669704584331
+      Modern pixel clothes FREE_113: -8037639652940994385
+      Modern pixel clothes FREE_114: 5859804535888012440
+      Modern pixel clothes FREE_115: -2275931853646488169
+      Modern pixel clothes FREE_116: -3818382312679242420
+      Modern pixel clothes FREE_117: -8310128520052882079
+      Modern pixel clothes FREE_118: 9052933681240803493
+      Modern pixel clothes FREE_119: -2296867611173846908
+      Modern pixel clothes FREE_12: 3378687599302380291
+      Modern pixel clothes FREE_120: 9033786159903756058
+      Modern pixel clothes FREE_121: -5166608152652547037
+      Modern pixel clothes FREE_122: -7661592771193043100
+      Modern pixel clothes FREE_123: -6979988148368899954
+      Modern pixel clothes FREE_124: 3719409284756636214
+      Modern pixel clothes FREE_125: -2290907296153629844
+      Modern pixel clothes FREE_126: -6966064585332585379
+      Modern pixel clothes FREE_127: 3457853985010032359
+      Modern pixel clothes FREE_128: 5709085695886316578
+      Modern pixel clothes FREE_129: -2318021484848939087
+      Modern pixel clothes FREE_13: 7096278498652961104
+      Modern pixel clothes FREE_130: -3400041788150567785
+      Modern pixel clothes FREE_131: -588039751989570636
+      Modern pixel clothes FREE_132: 1812671779340235295
+      Modern pixel clothes FREE_133: 5204720095720614201
+      Modern pixel clothes FREE_134: -8458305637451381798
+      Modern pixel clothes FREE_135: 3495428220026296102
+      Modern pixel clothes FREE_136: 2656280028744920344
+      Modern pixel clothes FREE_137: -7229876981725006785
+      Modern pixel clothes FREE_138: 8429066443813077711
+      Modern pixel clothes FREE_139: -3856903189682444163
+      Modern pixel clothes FREE_14: 6476934865047655813
+      Modern pixel clothes FREE_140: -7823500680632659214
+      Modern pixel clothes FREE_141: -8707772821974940265
+      Modern pixel clothes FREE_142: -8174079145839657797
+      Modern pixel clothes FREE_143: -4774498916709252578
+      Modern pixel clothes FREE_144: -5626962256599145938
+      Modern pixel clothes FREE_145: 3235298662710071915
+      Modern pixel clothes FREE_146: -5208545253074006407
+      Modern pixel clothes FREE_147: 4226630969693879637
+      Modern pixel clothes FREE_148: -280143850878198914
+      Modern pixel clothes FREE_149: 4153809160869394365
+      Modern pixel clothes FREE_15: -6910742753902614888
+      Modern pixel clothes FREE_150: -672635723582525804
+      Modern pixel clothes FREE_151: -4878677674990648281
+      Modern pixel clothes FREE_152: -611170565960800895
+      Modern pixel clothes FREE_153: -6789080284505046584
+      Modern pixel clothes FREE_154: -1545799743806076487
+      Modern pixel clothes FREE_155: -4717541895531398525
+      Modern pixel clothes FREE_156: 2154433571188658782
+      Modern pixel clothes FREE_157: 7447605685740621197
+      Modern pixel clothes FREE_158: 3580145354917677500
+      Modern pixel clothes FREE_159: 6185146310014613845
+      Modern pixel clothes FREE_16: 3102125484134331508
+      Modern pixel clothes FREE_160: -5053066805798149273
+      Modern pixel clothes FREE_161: 2079486672737900924
+      Modern pixel clothes FREE_162: 8344874364655573696
+      Modern pixel clothes FREE_163: -677365636964234660
+      Modern pixel clothes FREE_164: 3236262335468273620
+      Modern pixel clothes FREE_165: 3675450225133352158
+      Modern pixel clothes FREE_166: 5046494092349470960
+      Modern pixel clothes FREE_167: -5322272331308640756
+      Modern pixel clothes FREE_168: -4510793620551996138
+      Modern pixel clothes FREE_169: -2070540800839635116
+      Modern pixel clothes FREE_17: -687438033923797512
+      Modern pixel clothes FREE_170: 2337961649039531014
+      Modern pixel clothes FREE_171: 3728281386800177287
+      Modern pixel clothes FREE_172: 4327480203063044550
+      Modern pixel clothes FREE_173: 1138977311070050534
+      Modern pixel clothes FREE_174: 356871602150749910
+      Modern pixel clothes FREE_175: -3700007975795318622
+      Modern pixel clothes FREE_176: 7107407981530672511
+      Modern pixel clothes FREE_177: -2747937856748259222
+      Modern pixel clothes FREE_178: -924086010218235088
+      Modern pixel clothes FREE_179: 1106947001442527383
+      Modern pixel clothes FREE_18: 6221074647517466493
+      Modern pixel clothes FREE_180: 4053292466705037820
+      Modern pixel clothes FREE_181: 587808417223709650
+      Modern pixel clothes FREE_182: -6077419696424096732
+      Modern pixel clothes FREE_183: 7132989294828668169
+      Modern pixel clothes FREE_184: -3026223995078602929
+      Modern pixel clothes FREE_185: -813577565997466121
+      Modern pixel clothes FREE_186: -7187112106143875803
+      Modern pixel clothes FREE_187: -2856076034729179719
+      Modern pixel clothes FREE_188: 1542167224699205099
+      Modern pixel clothes FREE_189: 3610412884860219137
+      Modern pixel clothes FREE_19: 7876834130012569332
+      Modern pixel clothes FREE_190: -3010956936531610014
+      Modern pixel clothes FREE_191: -3700758528070623869
+      Modern pixel clothes FREE_192: -4470943870448937511
+      Modern pixel clothes FREE_193: 4164626410469046443
+      Modern pixel clothes FREE_194: -19751319841350412
+      Modern pixel clothes FREE_195: -1861923639535160933
+      Modern pixel clothes FREE_196: -8810860264105358855
+      Modern pixel clothes FREE_197: 1683888248810958455
+      Modern pixel clothes FREE_198: 511447580077707095
+      Modern pixel clothes FREE_199: 7271889984123080444
+      Modern pixel clothes FREE_2: -197415893201359094
+      Modern pixel clothes FREE_20: -6584498077823729504
+      Modern pixel clothes FREE_200: 5918318559317682261
+      Modern pixel clothes FREE_201: 7778789009713478336
+      Modern pixel clothes FREE_202: -882009111856789179
+      Modern pixel clothes FREE_203: 507983570029378506
+      Modern pixel clothes FREE_204: -3132538906687470680
+      Modern pixel clothes FREE_205: 336595169042915452
+      Modern pixel clothes FREE_206: -2865350836022675295
+      Modern pixel clothes FREE_207: 6620007771712671893
+      Modern pixel clothes FREE_208: -2326769369010119326
+      Modern pixel clothes FREE_209: 7465711774204389370
+      Modern pixel clothes FREE_21: 3563342881933790626
+      Modern pixel clothes FREE_210: -8309326735102827680
+      Modern pixel clothes FREE_211: 3972074690007194739
+      Modern pixel clothes FREE_212: -1543626726072815961
+      Modern pixel clothes FREE_213: -2233036348974959315
+      Modern pixel clothes FREE_214: 685783359651521022
+      Modern pixel clothes FREE_215: 3437154710112055609
+      Modern pixel clothes FREE_216: 6349572466675563138
+      Modern pixel clothes FREE_217: 4771727508093180338
+      Modern pixel clothes FREE_218: 5003330580205824017
+      Modern pixel clothes FREE_219: 4253945468165881173
+      Modern pixel clothes FREE_22: -6290022170514187138
+      Modern pixel clothes FREE_220: -8414251802082288643
+      Modern pixel clothes FREE_221: -7913698449518249475
+      Modern pixel clothes FREE_222: -4521326379889070030
+      Modern pixel clothes FREE_223: -3838613009801121104
+      Modern pixel clothes FREE_224: 898576760868630568
+      Modern pixel clothes FREE_225: 792719624237565816
+      Modern pixel clothes FREE_226: -7317725437131046398
+      Modern pixel clothes FREE_227: -8561607127438640598
+      Modern pixel clothes FREE_228: -3813716144808911959
+      Modern pixel clothes FREE_229: -1416443566987348289
+      Modern pixel clothes FREE_23: -510056482889655271
+      Modern pixel clothes FREE_230: -1794907713028793032
+      Modern pixel clothes FREE_231: -333611073571036977
+      Modern pixel clothes FREE_232: 881868780304148533
+      Modern pixel clothes FREE_233: -1071068766195698265
+      Modern pixel clothes FREE_234: 1418924049995237357
+      Modern pixel clothes FREE_235: -8628822589946444174
+      Modern pixel clothes FREE_236: 289413074284375792
+      Modern pixel clothes FREE_237: -417597926316256400
+      Modern pixel clothes FREE_238: 7894751009723243121
+      Modern pixel clothes FREE_239: 6897339687369680058
+      Modern pixel clothes FREE_24: -470156193434129217
+      Modern pixel clothes FREE_240: 3468697366079172543
+      Modern pixel clothes FREE_241: -9135998817416225645
+      Modern pixel clothes FREE_242: -593979386083420227
+      Modern pixel clothes FREE_243: -1942809581575214921
+      Modern pixel clothes FREE_244: 4105213115837722933
+      Modern pixel clothes FREE_245: 4229705330325138241
+      Modern pixel clothes FREE_246: -6142542421843491597
+      Modern pixel clothes FREE_247: 4219026612869304878
+      Modern pixel clothes FREE_248: -3129864001300052644
+      Modern pixel clothes FREE_249: 4208589892378656719
+      Modern pixel clothes FREE_25: -3977869866338672982
+      Modern pixel clothes FREE_250: -1720389669304576989
+      Modern pixel clothes FREE_251: -4335845426293908473
+      Modern pixel clothes FREE_252: -4357859745632302709
+      Modern pixel clothes FREE_253: 6916079025756020698
+      Modern pixel clothes FREE_254: 8284575902838279784
+      Modern pixel clothes FREE_26: 7746426781539644185
+      Modern pixel clothes FREE_27: 6155517793224709084
+      Modern pixel clothes FREE_28: -2164971785002131719
+      Modern pixel clothes FREE_29: 4363018028303281819
+      Modern pixel clothes FREE_3: 1217266406301124451
+      Modern pixel clothes FREE_30: -503605389828834141
+      Modern pixel clothes FREE_31: -8501325594461581015
+      Modern pixel clothes FREE_32: -5009302304669880115
+      Modern pixel clothes FREE_33: -6409521854246608152
+      Modern pixel clothes FREE_34: -1647666022450122442
+      Modern pixel clothes FREE_35: 2376269063801108429
+      Modern pixel clothes FREE_36: 5132786833046102671
+      Modern pixel clothes FREE_37: -1853190826772324840
+      Modern pixel clothes FREE_38: -5923895856372459688
+      Modern pixel clothes FREE_39: -1432794127897834565
+      Modern pixel clothes FREE_4: -1938442814305643292
+      Modern pixel clothes FREE_40: -4031226473732649327
+      Modern pixel clothes FREE_41: 6576032688967488465
+      Modern pixel clothes FREE_42: 5388000868495311021
+      Modern pixel clothes FREE_43: 5816831941579753953
+      Modern pixel clothes FREE_44: -6922654877919616569
+      Modern pixel clothes FREE_45: 8662709749224995001
+      Modern pixel clothes FREE_46: 6027548262614717006
+      Modern pixel clothes FREE_47: -8864415942432163293
+      Modern pixel clothes FREE_48: 2116861019773686916
+      Modern pixel clothes FREE_49: -2047689139724001301
+      Modern pixel clothes FREE_5: -3987801893080274110
+      Modern pixel clothes FREE_50: -3906225920441453969
+      Modern pixel clothes FREE_51: -4313101468220195900
+      Modern pixel clothes FREE_52: -2418539105377705954
+      Modern pixel clothes FREE_53: 6823915928159727790
+      Modern pixel clothes FREE_54: 171441264971426887
+      Modern pixel clothes FREE_55: -8875849998816360383
+      Modern pixel clothes FREE_56: 1676473013289436318
+      Modern pixel clothes FREE_57: -5066977480474118456
+      Modern pixel clothes FREE_58: 4766150117555697835
+      Modern pixel clothes FREE_59: 8101010447659419585
+      Modern pixel clothes FREE_6: -1466693641283123098
+      Modern pixel clothes FREE_60: 7165614940841264188
+      Modern pixel clothes FREE_61: 2192245981965478227
+      Modern pixel clothes FREE_62: -2520690451579284939
+      Modern pixel clothes FREE_63: 6396654515186153823
+      Modern pixel clothes FREE_64: 4352093953072280996
+      Modern pixel clothes FREE_65: 22911945965217070
+      Modern pixel clothes FREE_66: -4498519246146469460
+      Modern pixel clothes FREE_67: -7194423236254549502
+      Modern pixel clothes FREE_68: -3991864298784031561
+      Modern pixel clothes FREE_69: 8991740082650077014
+      Modern pixel clothes FREE_7: 8739299198942465840
+      Modern pixel clothes FREE_70: 282952957174061502
+      Modern pixel clothes FREE_71: 5880678236004008590
+      Modern pixel clothes FREE_72: 3703937164250392658
+      Modern pixel clothes FREE_73: 4477352811300938916
+      Modern pixel clothes FREE_74: 706316011922450116
+      Modern pixel clothes FREE_75: 2074407977163000636
+      Modern pixel clothes FREE_76: 1280925206487891617
+      Modern pixel clothes FREE_77: -6940910137978365401
+      Modern pixel clothes FREE_78: -7745233630104934830
+      Modern pixel clothes FREE_79: 8418631685258024063
+      Modern pixel clothes FREE_8: 7221116998894242301
+      Modern pixel clothes FREE_80: 4370134901784454908
+      Modern pixel clothes FREE_81: -2981790276463911801
+      Modern pixel clothes FREE_82: -5235350513529794440
+      Modern pixel clothes FREE_83: -2236797393280174509
+      Modern pixel clothes FREE_84: 7515575760258445312
+      Modern pixel clothes FREE_85: -1702506039357972787
+      Modern pixel clothes FREE_86: 9131148768385921271
+      Modern pixel clothes FREE_87: 1008519386402875048
+      Modern pixel clothes FREE_88: 2835384705209553072
+      Modern pixel clothes FREE_89: -8768826456707810409
+      Modern pixel clothes FREE_9: -6691770792441294525
+      Modern pixel clothes FREE_90: -1244193424399971043
+      Modern pixel clothes FREE_91: 7299328218594139397
+      Modern pixel clothes FREE_92: -1779793718414692583
+      Modern pixel clothes FREE_93: 8040531438696407863
+      Modern pixel clothes FREE_94: 1814617307370697564
+      Modern pixel clothes FREE_95: -2300870138813109454
+      Modern pixel clothes FREE_96: 7614278723255876111
+      Modern pixel clothes FREE_97: 778500731817568118
+      Modern pixel clothes FREE_98: 4209545869606715079
+      Modern pixel clothes FREE_99: -4876242108413795207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
