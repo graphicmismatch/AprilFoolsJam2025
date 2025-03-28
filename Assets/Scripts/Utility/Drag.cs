@@ -2,7 +2,8 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using static UnityEditor.Progress;
 
-
+[RequireComponent(typeof(CanvasGroup))]
+[RequireComponent(typeof(ClothingObject))]
 public class Drag : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler, IDropHandler
 {
     Transform parentAfterDrag;
@@ -15,6 +16,7 @@ public class Drag : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHand
     public void OnBeginDrag(PointerEventData eventData)
     {
         Debug.Log("Begin drag");
+        GetComponent<ClothingObject>().ToggleVisibility(true);
         parentAfterDrag = transform.parent;
         transform.SetParent(transform.root);
         transform.SetAsLastSibling();
@@ -34,11 +36,13 @@ public class Drag : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHand
         transform.SetParent(parentAfterDrag);
         canvasGroup.alpha = 1.0f;
         canvasGroup.blocksRaycasts = true;
+        resetSlotPosition();
     }
 
-    public void OnDrop(PointerEventData eventData) {
+    public void OnDrop(PointerEventData eventData)
+    {
         var d = eventData.pointerDrag.GetComponent<Drag>();
-        if (slot != null && d.slot !=null)
+        if (slot != null && d.slot != null)
         {
             var a = slot;
             var b = d.getSlot();
@@ -51,16 +55,23 @@ public class Drag : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHand
 
 
 
-    public void clearPrevSlot() {
+    public void clearPrevSlot()
+    {
         if (!slot) { return; }
         slot.item = null;
         slot = null;
     }
-    public void resetSlotPosition() {
+    public void resetSlotPosition()
+    {
         GetComponent<RectTransform>().anchoredPosition = slot.GetComponent<RectTransform>().anchoredPosition;
+        if(slot != null)
+        {
+            GetComponent<ClothingObject>().ToggleVisibility(!slot.hideItem);
+        }
     }
 
-    public void setSlot(Slot s) {
+    public void setSlot(Slot s)
+    {
         clearPrevSlot();
         slot = s;
         slot.item = GetComponent<ClothingObject>();
